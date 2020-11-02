@@ -1,0 +1,10 @@
+.button {
+  align-items: center;
+  align-content: center;
+
+  width: '90px';
+}
+
+.input-search {
+  padding-bottom: 0.5em;
+}
